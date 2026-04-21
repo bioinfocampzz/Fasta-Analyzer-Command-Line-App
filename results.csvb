@@ -1,0 +1,4 @@
+file_name,seq_id,seq_type,length,gc_content,aa_composition,invalid_chars
+genomic.fasta,tp53,DNA,19149,49.39,,
+mrna.fasta,NM_000546.6,DNA,2512,53.38,,
+protein.fasta,tp53,PROTEIN,393,,A:24;C:10;D:20;E:30;F:11;G:23;H:12;I:8;K:20;L:32;M:12;N:14;P:45;Q:15;R:26;S:38;T:22;V:18;W:4;Y:9,
